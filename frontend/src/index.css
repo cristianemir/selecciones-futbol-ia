@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* El reset básico se queda igual abajo */
+body {
+  margin: 0;
+  background-color: #f8fafc;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
